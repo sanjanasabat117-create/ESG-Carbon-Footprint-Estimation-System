@@ -1,0 +1,241 @@
+unit_id,activity_date,activity_type,quantity,original_unit
+1,2023-01-01,Natural Gas Stationary,3344.32,scf
+1,2023-01-01,Diesel Mobile,163.89,gallon
+1,2023-01-01,Electricity - Grid,9239.77,kWh
+1,2023-01-01,Air Travel - Long Haul,3744.88,mile
+1,2023-01-01,Waste - Landfill,2.8,metric ton
+1,2023-01-31,Natural Gas Stationary,3348.88,scf
+1,2023-01-31,Diesel Mobile,90.63,gallon
+1,2023-01-31,Electricity - Grid,19527.4,kWh
+1,2023-01-31,Air Travel - Long Haul,1178.32,mile
+1,2023-01-31,Waste - Landfill,4.97,metric ton
+1,2023-03-02,Natural Gas Stationary,1959.79,scf
+1,2023-03-02,Diesel Mobile,189.24,gallon
+1,2023-03-02,Electricity - Grid,15402.85,kWh
+1,2023-03-02,Air Travel - Long Haul,2415.76,mile
+1,2023-03-02,Waste - Landfill,4.77,metric ton
+1,2023-04-01,Natural Gas Stationary,1067.68,scf
+1,2023-04-01,Diesel Mobile,103.18,gallon
+1,2023-04-01,Electricity - Grid,17984.69,kWh
+1,2023-04-01,Air Travel - Long Haul,2601.11,mile
+1,2023-04-01,Waste - Landfill,1.37,metric ton
+1,2023-05-01,Natural Gas Stationary,3302.61,scf
+1,2023-05-01,Diesel Mobile,120.18,gallon
+1,2023-05-01,Electricity - Grid,5814.48,kWh
+1,2023-05-01,Air Travel - Long Haul,4931.62,mile
+1,2023-05-01,Waste - Landfill,3.88,metric ton
+1,2023-05-31,Natural Gas Stationary,4633.15,scf
+1,2023-05-31,Diesel Mobile,135.92,gallon
+1,2023-05-31,Electricity - Grid,13413.3,kWh
+1,2023-05-31,Air Travel - Long Haul,2937.53,mile
+1,2023-05-31,Waste - Landfill,4.39,metric ton
+1,2023-06-30,Natural Gas Stationary,2788.75,scf
+1,2023-06-30,Diesel Mobile,142.92,gallon
+1,2023-06-30,Electricity - Grid,19937.56,kWh
+1,2023-06-30,Air Travel - Long Haul,3530.41,mile
+1,2023-06-30,Waste - Landfill,1.65,metric ton
+1,2023-07-30,Natural Gas Stationary,1490.14,scf
+1,2023-07-30,Diesel Mobile,87.58,gallon
+1,2023-07-30,Electricity - Grid,5315.11,kWh
+1,2023-07-30,Air Travel - Long Haul,1539.46,mile
+1,2023-07-30,Waste - Landfill,1.05,metric ton
+1,2023-08-29,Natural Gas Stationary,2645.99,scf
+1,2023-08-29,Diesel Mobile,81.48,gallon
+1,2023-08-29,Electricity - Grid,10732.39,kWh
+1,2023-08-29,Air Travel - Long Haul,4815.48,mile
+1,2023-08-29,Waste - Landfill,1.19,metric ton
+1,2023-09-28,Natural Gas Stationary,3078.74,scf
+1,2023-09-28,Diesel Mobile,54.4,gallon
+1,2023-09-28,Electricity - Grid,13368.03,kWh
+1,2023-09-28,Air Travel - Long Haul,1001.12,mile
+1,2023-09-28,Waste - Landfill,2.72,metric ton
+1,2023-10-28,Natural Gas Stationary,1754.84,scf
+1,2023-10-28,Diesel Mobile,111.09,gallon
+1,2023-10-28,Electricity - Grid,9085.16,kWh
+1,2023-10-28,Air Travel - Long Haul,1287.55,mile
+1,2023-10-28,Waste - Landfill,2.7,metric ton
+1,2023-11-27,Natural Gas Stationary,2382.44,scf
+1,2023-11-27,Diesel Mobile,179.91,gallon
+1,2023-11-27,Electricity - Grid,7979.42,kWh
+1,2023-11-27,Air Travel - Long Haul,4989.63,mile
+1,2023-11-27,Waste - Landfill,1.18,metric ton
+2,2023-01-01,Natural Gas Stationary,2933.91,scf
+2,2023-01-01,Diesel Mobile,167.92,gallon
+2,2023-01-01,Electricity - Grid,9159.88,kWh
+2,2023-01-01,Air Travel - Long Haul,4644.27,mile
+2,2023-01-01,Waste - Landfill,4.41,metric ton
+2,2023-01-31,Natural Gas Stationary,4472.4,scf
+2,2023-01-31,Diesel Mobile,73.54,gallon
+2,2023-01-31,Electricity - Grid,7676.05,kWh
+2,2023-01-31,Air Travel - Long Haul,3552.6,mile
+2,2023-01-31,Waste - Landfill,4.4,metric ton
+2,2023-03-02,Natural Gas Stationary,1266.93,scf
+2,2023-03-02,Diesel Mobile,126.22,gallon
+2,2023-03-02,Electricity - Grid,8461.43,kWh
+2,2023-03-02,Air Travel - Long Haul,2864.84,mile
+2,2023-03-02,Waste - Landfill,4.45,metric ton
+2,2023-04-01,Natural Gas Stationary,3738.76,scf
+2,2023-04-01,Diesel Mobile,186.52,gallon
+2,2023-04-01,Electricity - Grid,8987.46,kWh
+2,2023-04-01,Air Travel - Long Haul,2957.85,mile
+2,2023-04-01,Waste - Landfill,4.77,metric ton
+2,2023-05-01,Natural Gas Stationary,4624.43,scf
+2,2023-05-01,Diesel Mobile,137.19,gallon
+2,2023-05-01,Electricity - Grid,7805.99,kWh
+2,2023-05-01,Air Travel - Long Haul,3102.49,mile
+2,2023-05-01,Waste - Landfill,2.9,metric ton
+2,2023-05-31,Natural Gas Stationary,2796.63,scf
+2,2023-05-31,Diesel Mobile,158.12,gallon
+2,2023-05-31,Electricity - Grid,15169.7,kWh
+2,2023-05-31,Air Travel - Long Haul,4420.78,mile
+2,2023-05-31,Waste - Landfill,2.48,metric ton
+2,2023-06-30,Natural Gas Stationary,4284.71,scf
+2,2023-06-30,Diesel Mobile,185.52,gallon
+2,2023-06-30,Electricity - Grid,17774.14,kWh
+2,2023-06-30,Air Travel - Long Haul,1980.07,mile
+2,2023-06-30,Waste - Landfill,3.73,metric ton
+2,2023-07-30,Natural Gas Stationary,3899.04,scf
+2,2023-07-30,Diesel Mobile,121.6,gallon
+2,2023-07-30,Electricity - Grid,17009.59,kWh
+2,2023-07-30,Air Travel - Long Haul,2178.12,mile
+2,2023-07-30,Waste - Landfill,3.47,metric ton
+2,2023-08-29,Natural Gas Stationary,3699.86,scf
+2,2023-08-29,Diesel Mobile,108.32,gallon
+2,2023-08-29,Electricity - Grid,8605.46,kWh
+2,2023-08-29,Air Travel - Long Haul,4854.54,mile
+2,2023-08-29,Waste - Landfill,3.79,metric ton
+2,2023-09-28,Natural Gas Stationary,4443.27,scf
+2,2023-09-28,Diesel Mobile,197.64,gallon
+2,2023-09-28,Electricity - Grid,18108.36,kWh
+2,2023-09-28,Air Travel - Long Haul,1055.5,mile
+2,2023-09-28,Waste - Landfill,1.99,metric ton
+2,2023-10-28,Natural Gas Stationary,1259.83,scf
+2,2023-10-28,Diesel Mobile,197.84,gallon
+2,2023-10-28,Electricity - Grid,17568.58,kWh
+2,2023-10-28,Air Travel - Long Haul,2609.79,mile
+2,2023-10-28,Waste - Landfill,1.97,metric ton
+2,2023-11-27,Natural Gas Stationary,2008.5,scf
+2,2023-11-27,Diesel Mobile,62.16,gallon
+2,2023-11-27,Electricity - Grid,7644.96,kWh
+2,2023-11-27,Air Travel - Long Haul,4505.76,mile
+2,2023-11-27,Waste - Landfill,4.68,metric ton
+3,2023-01-01,Natural Gas Stationary,1449.63,scf
+3,2023-01-01,Diesel Mobile,54.63,gallon
+3,2023-01-01,Electricity - Grid,7505.74,kWh
+3,2023-01-01,Air Travel - Long Haul,4133.24,mile
+3,2023-01-01,Waste - Landfill,4.15,metric ton
+3,2023-01-31,Natural Gas Stationary,3900.1,scf
+3,2023-01-31,Diesel Mobile,122.12,gallon
+3,2023-01-31,Electricity - Grid,11845.83,kWh
+3,2023-01-31,Air Travel - Long Haul,4820.48,mile
+3,2023-01-31,Waste - Landfill,2.36,metric ton
+3,2023-03-02,Natural Gas Stationary,1930.96,scf
+3,2023-03-02,Diesel Mobile,51.59,gallon
+3,2023-03-02,Electricity - Grid,9314.01,kWh
+3,2023-03-02,Air Travel - Long Haul,4253.38,mile
+3,2023-03-02,Waste - Landfill,1.66,metric ton
+3,2023-04-01,Natural Gas Stationary,3483.39,scf
+3,2023-04-01,Diesel Mobile,96.31,gallon
+3,2023-04-01,Electricity - Grid,5255.99,kWh
+3,2023-04-01,Air Travel - Long Haul,2691.46,mile
+3,2023-04-01,Waste - Landfill,4.15,metric ton
+3,2023-05-01,Natural Gas Stationary,3152.88,scf
+3,2023-05-01,Diesel Mobile,66.06,gallon
+3,2023-05-01,Electricity - Grid,19693.36,kWh
+3,2023-05-01,Air Travel - Long Haul,3992.08,mile
+3,2023-05-01,Waste - Landfill,1.61,metric ton
+3,2023-05-31,Natural Gas Stationary,4523.01,scf
+3,2023-05-31,Diesel Mobile,194.11,gallon
+3,2023-05-31,Electricity - Grid,19246.97,kWh
+3,2023-05-31,Air Travel - Long Haul,3992.3,mile
+3,2023-05-31,Waste - Landfill,2.46,metric ton
+3,2023-06-30,Natural Gas Stationary,3600.89,scf
+3,2023-06-30,Diesel Mobile,121.82,gallon
+3,2023-06-30,Electricity - Grid,5977.69,kWh
+3,2023-06-30,Air Travel - Long Haul,4686.64,mile
+3,2023-06-30,Waste - Landfill,3.7,metric ton
+3,2023-07-30,Natural Gas Stationary,2854.61,scf
+3,2023-07-30,Diesel Mobile,138.51,gallon
+3,2023-07-30,Electricity - Grid,12402.61,kWh
+3,2023-07-30,Air Travel - Long Haul,3919.4,mile
+3,2023-07-30,Waste - Landfill,2.11,metric ton
+3,2023-08-29,Natural Gas Stationary,1010.58,scf
+3,2023-08-29,Diesel Mobile,102.52,gallon
+3,2023-08-29,Electricity - Grid,19164.09,kWh
+3,2023-08-29,Air Travel - Long Haul,2297.64,mile
+3,2023-08-29,Waste - Landfill,1.53,metric ton
+3,2023-09-28,Natural Gas Stationary,1075.52,scf
+3,2023-09-28,Diesel Mobile,67.21,gallon
+3,2023-09-28,Electricity - Grid,14599.88,kWh
+3,2023-09-28,Air Travel - Long Haul,2470.25,mile
+3,2023-09-28,Waste - Landfill,4.56,metric ton
+3,2023-10-28,Natural Gas Stationary,1126.5,scf
+3,2023-10-28,Diesel Mobile,163.05,gallon
+3,2023-10-28,Electricity - Grid,12665.42,kWh
+3,2023-10-28,Air Travel - Long Haul,3750.38,mile
+3,2023-10-28,Waste - Landfill,1.29,metric ton
+3,2023-11-27,Natural Gas Stationary,2193.59,scf
+3,2023-11-27,Diesel Mobile,143.27,gallon
+3,2023-11-27,Electricity - Grid,6804.41,kWh
+3,2023-11-27,Air Travel - Long Haul,4234.89,mile
+3,2023-11-27,Waste - Landfill,2.76,metric ton
+4,2023-01-01,Natural Gas Stationary,4187.93,scf
+4,2023-01-01,Diesel Mobile,178.07,gallon
+4,2023-01-01,Electricity - Grid,5991.14,kWh
+4,2023-01-01,Air Travel - Long Haul,3242.83,mile
+4,2023-01-01,Waste - Landfill,2.83,metric ton
+4,2023-01-31,Natural Gas Stationary,1104.8,scf
+4,2023-01-31,Diesel Mobile,72.71,gallon
+4,2023-01-31,Electricity - Grid,12261.71,kWh
+4,2023-01-31,Air Travel - Long Haul,1515.39,mile
+4,2023-01-31,Waste - Landfill,1.56,metric ton
+4,2023-03-02,Natural Gas Stationary,4128.73,scf
+4,2023-03-02,Diesel Mobile,182.16,gallon
+4,2023-03-02,Electricity - Grid,10223.52,kWh
+4,2023-03-02,Air Travel - Long Haul,1222.05,mile
+4,2023-03-02,Waste - Landfill,4.63,metric ton
+4,2023-04-01,Natural Gas Stationary,1374.85,scf
+4,2023-04-01,Diesel Mobile,156.39,gallon
+4,2023-04-01,Electricity - Grid,19113.26,kWh
+4,2023-04-01,Air Travel - Long Haul,1085.02,mile
+4,2023-04-01,Waste - Landfill,3.43,metric ton
+4,2023-05-01,Natural Gas Stationary,2544.87,scf
+4,2023-05-01,Diesel Mobile,57.05,gallon
+4,2023-05-01,Electricity - Grid,16223.12,kWh
+4,2023-05-01,Air Travel - Long Haul,4519.61,mile
+4,2023-05-01,Waste - Landfill,4.43,metric ton
+4,2023-05-31,Natural Gas Stationary,2441.61,scf
+4,2023-05-31,Diesel Mobile,132.36,gallon
+4,2023-05-31,Electricity - Grid,16558.25,kWh
+4,2023-05-31,Air Travel - Long Haul,1012.72,mile
+4,2023-05-31,Waste - Landfill,1.6,metric ton
+4,2023-06-30,Natural Gas Stationary,4676.45,scf
+4,2023-06-30,Diesel Mobile,75.06,gallon
+4,2023-06-30,Electricity - Grid,19889.9,kWh
+4,2023-06-30,Air Travel - Long Haul,4961.58,mile
+4,2023-06-30,Waste - Landfill,1.33,metric ton
+4,2023-07-30,Natural Gas Stationary,2141.33,scf
+4,2023-07-30,Diesel Mobile,143.42,gallon
+4,2023-07-30,Electricity - Grid,6493.6,kWh
+4,2023-07-30,Air Travel - Long Haul,2744.79,mile
+4,2023-07-30,Waste - Landfill,2.56,metric ton
+4,2023-08-29,Natural Gas Stationary,4973.89,scf
+4,2023-08-29,Diesel Mobile,79.92,gallon
+4,2023-08-29,Electricity - Grid,19526.05,kWh
+4,2023-08-29,Air Travel - Long Haul,1866.77,mile
+4,2023-08-29,Waste - Landfill,2.42,metric ton
+4,2023-09-28,Natural Gas Stationary,1532.43,scf
+4,2023-09-28,Diesel Mobile,56.03,gallon
+4,2023-09-28,Electricity - Grid,7641.11,kWh
+4,2023-09-28,Air Travel - Long Haul,3139.35,mile
+4,2023-09-28,Waste - Landfill,4.82,metric ton
+4,2023-10-28,Natural Gas Stationary,2345.36,scf
+4,2023-10-28,Diesel Mobile,110.77,gallon
+4,2023-10-28,Electricity - Grid,6230.07,kWh
+4,2023-10-28,Air Travel - Long Haul,4751.3,mile
+4,2023-10-28,Waste - Landfill,3.78,metric ton
+4,2023-11-27,Natural Gas Stationary,1548.76,scf
+4,2023-11-27,Diesel Mobile,154.03,gallon
+4,2023-11-27,Electricity - Grid,11310.26,kWh
+4,2023-11-27,Air Travel - Long Haul,2382.95,mile
+4,2023-11-27,Waste - Landfill,1.3,metric ton
