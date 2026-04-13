@@ -4,6 +4,5 @@ plotly
 seaborn
 matplotlib
 streamlit
-sqlite3
 pytest
 python-dotenv

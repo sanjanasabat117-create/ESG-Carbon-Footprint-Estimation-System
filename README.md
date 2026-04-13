@@ -2,6 +2,13 @@
 
 An end-to-end Carbon Footprint Estimation System built with Python and SQL to calculate Scope 1, 2, and 3 emissions adhering to the GHG Protocol Corporate Standard and EPA/DEFRA methodologies.
 
+## 📊 Dashboard Preview
+![Dashboard Overview](./assets/dashboard_overview.png)
+*Professional executive view with GHG Scope breakdown and monthly trends.*
+
+![Decarbonization Modeler](./assets/decarbonization_modeler.png)
+*Interactive "What-If" analysis tool for strategic decarbonization planning.*
+
 ## Features
 - **Data Pipeline**: Automated activity log ingestion and unit-conversion logic.
 - **SQLite Database**: Structured tracking of historical emission trends across global business units.

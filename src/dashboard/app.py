@@ -13,9 +13,9 @@ st.set_page_config(page_title="Carbon Insight - Executive Dashboard", layout="wi
 # DB Connection
 DB_PATH = os.path.join(os.path.dirname(__file__), '../../data/database.sqlite')
 
-def get_data(query):
+def get_data(query, params=None):
     conn = sqlite3.connect(DB_PATH)
-    df = pd.read_sql_query(query, conn)
+    df = pd.read_sql_query(query, conn, params=params)
     conn.close()
     return df
 
@@ -54,10 +54,7 @@ query = f"""
     JOIN business_units bu ON ce.unit_id = bu.unit_id
     WHERE bu.unit_name IN ({','.join(['?']*len(selected_unit))})
 """
-df = get_data(query if selected_unit else "SELECT * FROM calculated_emissions LIMIT 0")
-conn = sqlite3.connect(DB_PATH)
-df = pd.read_sql_query(query, conn, params=selected_unit)
-conn.close()
+df = get_data(query, params=selected_unit) if selected_unit else pd.DataFrame()
 
 if df.empty:
     st.warning("No data selected. Please adjust filters.")
