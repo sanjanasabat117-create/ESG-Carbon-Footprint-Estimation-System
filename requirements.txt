@@ -1,8 +1,6 @@
 pandas
 numpy
-plotly
-seaborn
-matplotlib
-streamlit
-pytest
-python-dotenv
+python
+sql
+Power BI
+Excel
